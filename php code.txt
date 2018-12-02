@@ -1,0 +1,7 @@
+connection to db
+login
+logout
+signup
+
+filtering through items
+adding to/deleting from cart

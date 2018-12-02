@@ -1,0 +1,8 @@
+color (later)
+weight
+folded dimension
+handle bar (m-type/ s-type)
+frame material
+gearing (6 speed etc)
+Lighting
+price
